@@ -1,0 +1,20 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "yanagiPackage",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": ""
+    }
+  ],
+  "name": "YanagiProject",
+  "namespace": "DEMO",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0",
+  "packageAliases": {
+    "yanagiPackage": "0HoGA000000fxlr0AA",
+    "yanagiPackage@0.1.0-1": "04tGA000005gsrXYAQ"
+  }
+}
